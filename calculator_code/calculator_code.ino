@@ -1,6 +1,6 @@
 #include <LiquidCrystal.h>
 
-// Define pin numbers for rows and columns of the keypad matrix
+// Define pin numbers for rows and columns of the keypad matrix.
 #define r1 0
 #define r2 1
 #define r3 2
